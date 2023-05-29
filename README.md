@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on coding contests.
 - 📫 insta okay.anshu
 
