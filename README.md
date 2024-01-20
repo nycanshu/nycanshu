@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **hkg43700@gmail.com**
 
+- [![An image of @nycanshu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nycanshu)](https://holopin.io/@nycanshu)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/okay_anshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="okay_anshu" height="30" width="40" /></a>
