@@ -38,3 +38,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nycanshu&show_icons=true&locale=en" alt="nycanshu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nycanshu&" alt="nycanshu" /></p>
+
+
+<div>
+
+[![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nycanshu&hide_border=true&theme=nightowl)](https://github.com/nycanshu/github-readme-activity-graph)
+
+</div>
