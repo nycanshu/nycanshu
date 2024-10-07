@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
-<h3 align="center">A passionate competitive coder. And a beginner in Full Stack Java Development.</h3>
+<h3 align="center">A passionate competitive coder. Having experties in frontend and backend <br> <h2> Loves : Java, Spring Boot, JPA, MySql, Flutter, Firebase, Azure, Microsoft Power App....and more </h2>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nycanshu&label=Profile%20views&color=0e75b6&style=flat" alt="nycanshu" /> </p>
 
