@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
-<h3 align="center">A passionate competitive coder. Having experties in frontend and backend <br> <h2> Loves : Java, Spring Boot, JPA, MySql, Flutter, Firebase, Azure, Microsoft Power App....and more </h2>.</h3>
+<h3 align="center">A passionate competitive coder. Having experties in frontend and backend.</h3>
+<h5 align="center">Java, Spring Boot, JPA, JSP, Servlets, MySql, Flutter, Firebase, Azure, Microsoft Power App....and more </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nycanshu&label=Profile%20views&color=0e75b6&style=flat" alt="nycanshu" /> </p>
 
@@ -7,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/okay_anshu" target="blank"><img src="https://img.shields.io/twitter/follow/okay_anshu?logo=twitter&style=for-the-badge" alt="okay_anshu" /></a> </p>
 
-- 🔭 I’m currently working on **Bank Application using full stack JAVA**
+- 🔭 I’m currently working on **Microsoft Power Apps creation and modification.**
 
-- 🌱 I’m currently learning **Full Stack Java.**
+- 🌱 I’m currently learning **Full Stack Java with Spring Boot and React Js.**
 
-- 👯 I’m looking to collaborate on **any app development project.**
+- 👯 I’m looking to collaborate on **any Mobile app/backend/froentend/scripting projects.**
 
-- ⚡ Fun fact [Apart from this I am interested in Ui Ux Designer. I have done some projects over it.](Apart from this I am interested in Ui Ux Designer. I have done some projects over it.)
+- ⚡ Fun fact Apart from this I am interested in Ui Ux Designer. I have done some projects over it.
 
-- 💬 Ask me about **java, competitive coding, python, html.**
+- 💬 Ask me about **java, competitive coding, Power Apps, React, Spring Boot....etc**
 
 - 📫 How to reach me **hkg43700@gmail.com**
 
