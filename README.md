@@ -29,8 +29,9 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-%231F8B37.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/okay_anshu) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23D9A900.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/okay_anshu) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/nycanshu) 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A300.svg?logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/okay_username) 
-[![Hackerearth](https://img.shields.io/badge/HackerEarth-%23F3A44D.svg?logo=Hackerearth&logoColor=white)](https://www.hackerearth.com/okay_anshu) 
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A300.svg?logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/okay_anshu) 
+[![Hackerearth](https://img.shields.io/badge/HackerEarth-%23F3A44D.svg?logo=Hackerearth&logoColor=white)](https://www.hackerearth.com/@Okay.anshu) 
+[![Codolio](https://img.shields.io/badge/Codolio-%23000000.svg?logo=codolio&logoColor=white)](https://codolio.com/profile/okay_anshu)
 
 
 
