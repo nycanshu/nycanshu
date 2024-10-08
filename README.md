@@ -72,3 +72,7 @@
 [![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nycanshu&hide_border=true&theme=nightowl)](https://github.com/nycanshu/github-readme-activity-graph)
 
 </div>
+
+<div align="center">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nycanshu/nycanshu/f388d1eeb02321a69b30402f681e55b8629ac6ba/github-contribution-grid-snake.svg" />
+</div>
