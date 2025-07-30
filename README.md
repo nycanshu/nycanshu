@@ -82,7 +82,6 @@
     <br> <em>Watch as the snake eats my contributions—one commit at a time!</em>
 </div>
 
-<p align="center">
-    <b>Thanks for scrolling this far.<br>
-    Now go build something awesome. Or just fork my repo. Whatever makes you happy.</b>
-</p>
+
+
+
