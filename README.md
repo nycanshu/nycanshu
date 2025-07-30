@@ -83,5 +83,11 @@
 </div>
 
 
+<!-- Clean horizontal separator -->
+<hr style="width: 90%; margin: 24px auto; border: none; height: 2px; background-color: #d3dce6;">
 
+<p align="center">
+    <b>Thanks for scrolling this far!<br>
+    Now go build something awesome—or just fork my repo. Your call. 🚀</b>
+</p>
 
