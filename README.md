@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">A passionate competitive coder. Having experties in frontend and backend.</h3>
-<h5 align="center">Java, Spring Boot, JPA, JSP, Servlets, MySql, Flutter, Firebase, Azure, Microsoft Power App....and more </h5>
+<h5 align="center">Java Full Stack (Spring, Spring Boot, Java Fx) , Database (MySql, MongoDB, postgresql), Next Js,  Microsoft Power App....and more </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nycanshu&base=11000&abbreviated=false&label=Profile%20views&color=0e75b6&style=flat" alt="nycanshu" /> </p>
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/okay_anshu" target="blank"><img src="https://img.shields.io/twitter/follow/okay_anshu?logo=twitter&style=for-the-badge" alt="okay_anshu" /></a> </p>
 
-- 🔭 I’m currently working on **Microsoft Power Apps creation and modification.**
+- 🔭 I’m currently working on ** Next Js **
 
 - 🌱 I’m currently learning **Full Stack Java with Spring Boot and React Js.**
 
