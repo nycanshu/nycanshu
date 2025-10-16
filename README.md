@@ -42,6 +42,20 @@
 
 
 
+<!-- Holopin Badge Section -->
+<p align="center">
+  <a href="https://holopin.io/@nycanshu">
+    <img 
+      src="https://holopin.me/nycanshu" 
+      alt="Holopin Badge" 
+      width="300" 
+      style="border-radius: 8px;"
+    />
+  </a>
+  <br>
+  <em>Check out my Holopin badge collection!</em>
+</p>
+
 
 
 
@@ -90,4 +104,5 @@
     <b>Thanks for scrolling this far!<br>
     Now go build something awesome—or just fork my repo. Your call. 🚀</b>
 </p>
+
 
