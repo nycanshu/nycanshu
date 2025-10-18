@@ -6,7 +6,7 @@
 <h5 align="center">Java Full Stack (Spring, Spring Boot, Java Fx), Databases (MySQL, MongoDB, PostgreSQL), Next.js, Microsoft Power App... and yes, the list continues (because why not?)</h5>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=nycanshu&base=11000&abbreviated=false&label=Profile%20views&color=0e75b6&style=flat" alt="nycanshu" />
+    <img src="https://komarev.com/ghpvc/?username=nycanshu&base=14000&abbreviated=false&label=Profile%20views&color=0e75b6&style=flat" alt="nycanshu" />
     <em>(Look at all those curious stalkers!)</em>
 </p>
 
@@ -104,5 +104,6 @@
     <b>Thanks for scrolling this far!<br>
     Now go build something awesome—or just fork my repo. Your call. 🚀</b>
 </p>
+
 
 
