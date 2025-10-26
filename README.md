@@ -48,7 +48,7 @@
     <img 
       src="https://holopin.me/nycanshu" 
       alt="Holopin Badge" 
-      width="300" 
+      width="500" 
       style="border-radius: 8px;"
     />
   </a>
@@ -104,6 +104,7 @@
     <b>Thanks for scrolling this far!<br>
     Now go build something awesome—or just fork my repo. Your call. 🚀</b>
 </p>
+
 
 
 
